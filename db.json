@@ -1,3 +1,10 @@
 {
-  "tasks": []
+  "tasks": [
+    {
+      "text": "Church meeting",
+      "day": "12 october 2023",
+      "reminder": true,
+      "id": 1
+    }
+  ]
 }
